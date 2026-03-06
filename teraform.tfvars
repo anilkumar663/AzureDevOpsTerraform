@@ -1,0 +1,6 @@
+rgname = "anil"
+location = "centralindia"
+vnet = "anil-vnet"
+subnet = "anil-subnet"
+nic = "anil-nic"
+vm = "anillinux"
